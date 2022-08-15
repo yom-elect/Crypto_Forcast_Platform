@@ -1,0 +1,7 @@
+tensorflow
+sklearn
+feedparser
+flask
+pandas
+numpy
+yfinance
